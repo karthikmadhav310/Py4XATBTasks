@@ -1,7 +1,5 @@
-# Task #1
-
+# Task #1 Assignment
 # # Home Can you create a Program I will give you number(userinput and print table)
-
 # f"{}" String format concept
 # User input - num int -> 10, 100, -1, 2, 3.14 -> input
 # 9x1 = 9
@@ -19,6 +17,7 @@ print(f"{customNum}*7={customNum * 7}")
 print(f"{customNum}*8={customNum * 8}")
 print(f"{customNum}*9={customNum * 9}")
 print(f"{customNum}*10={customNum * 10}")
+
 
 
 
